@@ -4,7 +4,7 @@ export default function Home() {
     <div className="container-fluid">
       <div cclassNamelass="row">
         <div className="col-xs-12 col-sm-6 mx-auto text-center m-5 p-5">
-          <h1>rx-dev.com - Coming soon... </h1>
+          <h1>rx-dev.com - Coming soon.... </h1>
         </div>
       </div>
       <div className="row">
